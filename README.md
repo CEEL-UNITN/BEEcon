@@ -19,7 +19,7 @@ Anyone from students to full professors :)
 
 ### 📌 *Formula*
 
-Each meeting consists of a 45-minute presentation by a designated speaker, followed by 15 minutes of general discussion. Presentations are interactive and questions and comments from participants are strongly encouraged. If a meeting involves the discussion of a research paper, each participant (not just the presenter!) is expected to read the paper in advance. Presenters are appointed on a voluntary basis.
+Each meeting consists of a 45-minute presentation by a designated speaker, followed by 15 minutes of general discussion. Presentations are meant to be interactive, i.e. questions and comments from participants are strongly encouraged. If a meeting involves the discussion of a research paper, each participant (not just the presenter!) is expected to read the paper in advance. Presenters are appointed on a voluntary basis.
 
 ### 📌 *Time and venue*
 
