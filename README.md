@@ -40,5 +40,3 @@ To receive updates on meetings and other activities, join the [BEEcon mailing li
 Past meetings will be listed here.
 
 
-<p align="center"><img src="images/CEEL_logo_white.png" height="100px"> <img src="images/UNITN_logo_white.svg" height="77px"></p>
-
