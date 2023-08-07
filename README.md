@@ -1,4 +1,4 @@
-<p align="center"><img src="BEEcon_logo.png" width="50%"></p>
+<p align="center"><img src="images/BEEcon_logo.png" width="50%"></p>
 
 # About 
 
@@ -38,3 +38,7 @@ To receive updates on meetings and other activities, join the [BEEcon mailing li
 # Past meetings
 
 Past meetings will be listed here.
+
+
+<p align="center"><img src="images/studio.svg" width="30%"></p>
+
