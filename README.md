@@ -18,7 +18,7 @@ Each meeting consists of a 45-minute presentation by a designated speaker, follo
 ### 📌 *Time and venue*
 
 > [!NOTE]  
-> **When:** `Thursday` from `4PM to about 5PM`.
+> **When:** `Thursday` from `4PM to about 5PM`.    
 > **Where:** Department of Economics and Management, University of Trento, via Vigilio Inama 5, Room `X` (first floor).
 
 Meetings can be live-streamed on request for participants unable to attend in person. 
