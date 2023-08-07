@@ -1,4 +1,4 @@
-<p align="center"><img src="BEEcon_logo.svg" width="70%"></p>
+<p align="center"><img src="beecon_prova.png" width="70%"></p>
 
 ## <span style="color:orange"> About </span> 
 
