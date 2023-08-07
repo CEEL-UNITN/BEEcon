@@ -19,11 +19,13 @@ Each meeting consists of a 45-minute presentation by a designated speaker, follo
 **When:** Thursday from 4PM to about 5PM.    
 **Where:** Department of Economics and Management, University of Trento, via Vigilio Inama 5, Room X (first floor).
 
+Meetings can be live-streamed on request for participants unable to attend in person. 
+
 Below is an overview of the upcoming meetings. Any changes to the normal schedule will be announced in advance.
 
 ### 📌 Mailing list
 
-To receive updates on meetings and other activities, join the BEEcon mailing list.
+To receive updates on meetings and other activities, join the [BEEcon mailing list](https://groups.google.com/a/unitn.it/g/beecon-reading-group-rnoos72391n9-unverified).
 
 # Upcoming meetings
 
