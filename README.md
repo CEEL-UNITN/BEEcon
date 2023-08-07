@@ -26,7 +26,13 @@ Meetings can be live-streamed on request for those unable to attend in person. A
 
 Click [HERE](https://groups.google.com/a/unitn.it/g/beecon-reading-group-rnoos72391n9-unverified) or scan the QR code below to join the BEEcon mailing list and receive updates on meetings and other activities.
 
-<p align="center"><img src="images/qr-code.png" width="200px"></p>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/qr-code.png" width="200px">
+  <source media="(prefers-color-scheme: light)" srcset="images/qr-code.png" width="200px">
+  <img src="images/qr-code.png">
+</picture>
+</p>
 
 # Upcoming meetings
 
