@@ -1,4 +1,5 @@
-![Logo](BEEcon_logo.svg)
+<p style="text-align:center;"><img src="BEEcon_logo.svg" width="70%" class="center"></p>
+
 
 The **Behavioural and Experimental Economics (BEEcon) Reading Group** meets every two weeks to discuss new developments in behavioural economics and related fields in a friendly and informal environment. Meetings may involve the discussion of research papers or ongoing projects by students or faculty members.
 
