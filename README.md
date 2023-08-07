@@ -1,4 +1,4 @@
-<p align="center"><img src="images/BEEcon_logo_white.png" width="50%"></p>
+<p align="center"><img src="images/BEEcon_logo_dark.png" width="50%"></p>
 
 
 # About 
@@ -28,9 +28,9 @@ Click [HERE](https://groups.google.com/a/unitn.it/g/beecon-reading-group-rnoos72
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="images/qr-code.png" width="200px">
-  <source media="(prefers-color-scheme: light)" srcset="images/qr-code.png" width="200px">
-  <img src="images/qr-code.png">
+  <source media="(prefers-color-scheme: dark)" srcset="images/qr-code-dark.png" width="200px">
+  <source media="(prefers-color-scheme: light)" srcset="images/qr-code-light.png" width="200px">
+  <img src="images/qr-code-dark.png">
 </picture>
 </p>
 
