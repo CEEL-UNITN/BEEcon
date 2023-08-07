@@ -1,4 +1,10 @@
-<p align="center"><img src="images/BEEcon_logo_dark.png" width="50%"></p>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/BEEcon_logo_dark.png" width="50%">
+  <source media="(prefers-color-scheme: light)" srcset="images/BEEcon_logo_light.png" width="50%">
+  <img src="images/BEEcon_logo_dark.png">
+</picture>
+</p>
 
 
 # About 
