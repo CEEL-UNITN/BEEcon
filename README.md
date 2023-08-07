@@ -1,4 +1,4 @@
-<p align="center"><img src="images/BEEcon_logo.png" width="50%"></p>
+<p align="center"><img src="images/BEEcon_logo_white.png" width="50%"></p>
 
 # About 
 
@@ -40,5 +40,5 @@ To receive updates on meetings and other activities, join the [BEEcon mailing li
 Past meetings will be listed here.
 
 
-<p align="center"><img src="images/studio.svg" width="30%"></p>
+<p align="center"><img src="images/CEEL_logo_white.png" height="100px"> <img src="images/UNITN_logo_white.svg" height="77px"></p>
 
