@@ -20,7 +20,7 @@ Each meeting consists of a 45-minute presentation by a designated speaker, follo
 > [!NOTE]  
 > Highlights information that users should take into account, even when skimming.
 
-> **Note**
+> **When**
 > This is a note
 
 **When:** `Thursday` from `4PM to about 5PM`.    
