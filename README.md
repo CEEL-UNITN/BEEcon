@@ -1,8 +1,8 @@
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="images/BEEcon_logo_dark.png" width="50%">
-  <source media="(prefers-color-scheme: light)" srcset="images/BEEcon_logo_light.png" width="50%">
-  <img src="images/BEEcon_logo_dark.png">
+  <source media="(prefers-color-scheme: dark)" srcset="images/BEEcon_logo_white.svg" width="50%">
+  <source media="(prefers-color-scheme: light)" srcset="images/BEEcon_logo_black.svg" width="50%">
+  <img src="images/BEEcon_logo_white.svg">
 </picture>
 </p>
 
@@ -34,9 +34,9 @@ Click [HERE](https://groups.google.com/a/unitn.it/g/beecon-reading-group-rnoos72
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="images/qr-code-dark.png" width="200px">
-  <source media="(prefers-color-scheme: light)" srcset="images/qr-code-light.png" width="200px">
-  <img src="images/qr-code-dark.png">
+  <source media="(prefers-color-scheme: dark)" srcset="images/qr-code-white.png" width="200px">
+  <source media="(prefers-color-scheme: light)" srcset="images/qr-code-black.png" width="200px">
+  <img src="images/qr-code-white.png">
 </picture>
 </p>
 
