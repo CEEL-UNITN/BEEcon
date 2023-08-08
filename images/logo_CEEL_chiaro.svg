@@ -293,9 +293,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.81"
-     inkscape:cx="467.12707"
+     inkscape:cx="603.03867"
      inkscape:cy="242.26519"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer5"
      showgrid="true"
      inkscape:window-width="2880"
      inkscape:window-height="1514"
@@ -561,7 +561,7 @@
          y="507.03125" /></text>
     <text
        xml:space="preserve"
-       style="font-weight:bold;font-size:41.2627px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:0.385985;stroke-opacity:0"
+       style="font-weight:bold;font-size:41.2627px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';opacity:1;fill:#800000;fill-opacity:1;stroke:#000000;stroke-width:0.385985;stroke-opacity:0"
        x="876.02942"
        y="496.22308"
        id="text37"><tspan
@@ -569,11 +569,11 @@
          id="tspan37"
          x="876.02942"
          y="496.22308"
-         style="font-size:41.2627px;text-align:center;text-anchor:middle;fill:#f7f7f7;fill-opacity:1;stroke-width:0.385985">COGNITIVE AND EXPERIMENTAL</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:41.2627px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:center;text-anchor:middle;fill:#f7f7f7;fill-opacity:1;stroke-width:0.385985">COGNITIVE AND EXPERIMENTAL</tspan><tspan
          sodipodi:role="line"
          x="876.02942"
          y="547.80145"
-         style="font-size:41.2627px;text-align:center;text-anchor:middle;fill:#f7f7f7;fill-opacity:1;stroke-width:0.385985"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:41.2627px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:center;text-anchor:middle;fill:#f7f7f7;fill-opacity:1;stroke-width:0.385985"
          id="tspan38">ECONOMICS LABORATORY</tspan></text>
   </g>
 </svg>
