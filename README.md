@@ -52,4 +52,20 @@ Click [HERE](https://groups.google.com/a/unitn.it/g/beecon-reading-group-rnoos72
 
 Past meetings will be listed here.
 
+<br><br>
+<hr>
+<br>
+<p align="right"> <i>The content of this repo is licensed under a MIT license.</i>
+<p align="right">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/logo_CEEL_chiaro.svg" width="200px">
+  <source media="(prefers-color-scheme: light)" srcset="images/logo_CEEL_scuro.svg" width="200px">
+  <img src="images/logo_CEEL_chiaro.svg">
+  </picture> <br> <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/logo_unitn_white.svg" width="200px">
+  <source media="(prefers-color-scheme: light)" srcset="images/logo_unitn_black.svg" width="200px">
+  <img src="images/logo_unitn_white.svg">
+</picture>
+</p>
+
 
