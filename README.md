@@ -11,7 +11,7 @@
 
 The **Behavioural and Experimental Economics (BEEcon) Reading Group** meets every two weeks to discuss recent developments in behavioural economics and related fields in a friendly and informal environment. Meetings are held to present research papers or ongoing projects, with emphasis on new concepts, techniques, and experimental strategies. Reading suggestions from participants are welcome.
 
-The 2023-24 reading group is organized by [Austeja Kazemekaytite](mailto:a.kazemekaityte@unitn.it?subject=BEEcon%20Reading%20Group) and [Nicola Campigotto](mailto:nicola.campigotto@unitn.it?subject=BEEcon%20Reading%20Group).
+The 2023-24 reading group is organized by [Austėja Kažemekaitytė](mailto:a.kazemekaityte@unitn.it?subject=BEEcon%20Reading%20Group) and [Nicola Campigotto](mailto:nicola.campigotto@unitn.it?subject=BEEcon%20Reading%20Group).
 
 ### 📌 *Who can participate?*
 
