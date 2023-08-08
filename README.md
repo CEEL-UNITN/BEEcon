@@ -44,8 +44,8 @@ Click [HERE](https://groups.google.com/a/unitn.it/g/beecon-reading-group-rnoos72
 
 | 📆 **Meeting date** | 📢 **Presenter**      | 📝 **Topic** |
 | :--- | :--- | :--- |
-| Oct 5 2023, 4PM      | Nicola Campigotto     | Goette and Tripodi (2023), "[The limits of social recognition: Experimental evidence from blood donors](https://www.egontripodi.com/papers/recognition.pdf)", working paper |
-| Oct 19 2023, 4PM     | Austeja Kazemekaytite | TBA |
+| Oct 26 2023, 4PM      | Nicola Campigotto     | Goette and Tripodi (2023), "[The limits of social recognition: Experimental evidence from blood donors](https://www.egontripodi.com/papers/recognition.pdf)", working paper |
+| Nov 2 2023, 4PM     | Austeja Kazemekaytite | TBA |
 
 
 # Past meetings
