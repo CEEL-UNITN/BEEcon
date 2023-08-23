@@ -58,12 +58,12 @@ Past meetings will be listed here.
 <p align="right"> <i>The content of this repo is licensed under a MIT license.</i>
 <p align="right">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="images/logo_CEEL_chiaro.svg" width="35%">
-  <source media="(prefers-color-scheme: light)" srcset="images/logo_CEEL_scuro.svg" width="35%">
+  <source media="(prefers-color-scheme: dark)" srcset="images/logo_CEEL_chiaro.svg" width="40%">
+  <source media="(prefers-color-scheme: light)" srcset="images/logo_CEEL_scuro.svg" width="40%">
   <img src="images/logo_CEEL_chiaro.svg">
   </picture> <br><br> <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="images/logo_unitn_white.svg" width="35%">
-  <source media="(prefers-color-scheme: light)" srcset="images/logo_unitn_black.svg" width="35%">
+  <source media="(prefers-color-scheme: dark)" srcset="images/logo_unitn_white.svg" width="40%">
+  <source media="(prefers-color-scheme: light)" srcset="images/logo_unitn_black.svg" width="40%">
   <img src="images/logo_unitn_white.svg">
 </picture>
 </p>
