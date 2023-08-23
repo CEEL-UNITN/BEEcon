@@ -1,7 +1,7 @@
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="images/BEEcon_logo_white.svg" width="50%">
-  <source media="(prefers-color-scheme: light)" srcset="images/BEEcon_logo_black.svg" width="50%">
+  <source media="(prefers-color-scheme: dark)" srcset="images/BEEcon_logo_white.svg" width="55%">
+  <source media="(prefers-color-scheme: light)" srcset="images/BEEcon_logo_black.svg" width="55%">
   <img src="images/BEEcon_logo_white.svg">
 </picture>
 </p>
