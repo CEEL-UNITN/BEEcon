@@ -44,8 +44,9 @@ Click [HERE](https://groups.google.com/a/unitn.it/g/beecon-reading-group-rnoos72
 
 | 📆 **Meeting date** | 📢 **Presenter**      | 📝 **Topic** |
 | :--- | :--- | :--- |
-| Oct 5 2023, 4PM      | Nicola Campigotto     | Goette and Tripodi (2023), "[The limits of social recognition: Experimental evidence from blood donors](https://www.egontripodi.com/papers/recognition.pdf)", working paper |
-| Oct 19 2023, 4PM     | TBA | TBA |
+| Oct 12 2023, 4PM       | Nicola Campigotto     | Goette and Tripodi (2023), "[The limits of social recognition: Experimental evidence from blood donors](https://www.egontripodi.com/papers/recognition.pdf)", working paper |
+| Oct 26 2023, 4PM       | Austėja Kažemekaitytė | TBA |
+| Nov 9 2023, 4PM        | Matteo Ploner         | Schwardmann, Tripodi and van der Weele (2022), "[Self-persuasion: Evidence from field experiments at international debating competitions](https://doi.org/10.1257/aer.20200372), *American Economic Review*, vol. 112, no. 4, pp. 1118-1146 |
 
 
 # Past meetings
