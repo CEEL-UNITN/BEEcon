@@ -44,7 +44,7 @@ Click [HERE](https://groups.google.com/a/unitn.it/g/beecon-reading-group-rnoos72
 
 | 📆 **Meeting date** | 📢 **Presenter**      | 📝 **Topic** |
 | :--- | :--- | :--- |
-| Oct 26 2023, 4PM       | Austėja Kažemekaitytė     | TBA |
+| Oct 26 2023, 4PM       | Austėja Kažemekaitytė     | Mislavsky and Gaertig (2022), "[Combining Probability Forecasts: 60% and 60% Is 60%, but Likely and Likely Is Very Likely]([https://www.egontripodi.com/papers/recognition.pdf](https://spaces-cdn.owlstown.com/blobs/so3vjimprsqzcmzcealliv57frgh)", Management Science vol. 68(1) |
 | Nov 9 2023, 4PM       | TBA | TBA |
 
 
