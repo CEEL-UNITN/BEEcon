@@ -47,7 +47,6 @@ Click [HERE](https://groups.google.com/a/unitn.it/g/beecon-reading-group-rnoos72
 | Oct 26 2023, 4PM       | Austėja Kažemekaitytė     | Mislavsky and Gaertig (2022), "[Combining probability forecasts: 60% and 60% is 60%, but likely and likely is very likely](https://doi.org/10.1287/mnsc.2020.3902)", *Management Science*, vol. 68(1) |
 | Nov 9 2023, 4PM       | TBA | TBA |
 
-<br>
 
 # Past meetings
 
@@ -55,7 +54,6 @@ Click [HERE](https://groups.google.com/a/unitn.it/g/beecon-reading-group-rnoos72
 | :--- | :--- | :--- | :--- |
 | Oct 12 2023       | Nicola Campigotto     | Goette and Tripodi (2023), "[The limits of social recognition: Experimental evidence from blood donors](https://www.egontripodi.com/papers/recognition.pdf)", working paper | [Download](https://github.com/CEEL-UNITN/BEEcon/blob/main/presentations/BEEcon_20231012.pdf) |
 
-<br>
 
 # Possible readings for upcoming meetings
 
