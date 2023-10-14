@@ -44,7 +44,7 @@ Click [HERE](https://groups.google.com/a/unitn.it/g/beecon-reading-group-rnoos72
 
 | 📆 **Meeting date** | 📢 **Presenter**      | 📝 **Topic** |
 | :--- | :--- | :--- |
-| Oct 26 2023, 4PM       | Austėja Kažemekaitytė     | Mislavsky and Gaertig (2022), "Combining Probability Forecasts: 60% and 60% Is 60%, but Likely and Likely Is Very Likely", Management Science vol. 68(1) |
+| Oct 26 2023, 4PM       | Austėja Kažemekaitytė     | Mislavsky and Gaertig (2022), "[Combining probability forecasts: 60% and 60% is 60%, but likely and likely is very likely](https://doi.org/10.1287/mnsc.2020.3902)", *Management Science*, vol. 68(1) |
 | Nov 9 2023, 4PM       | TBA | TBA |
 
 
@@ -54,7 +54,15 @@ Click [HERE](https://groups.google.com/a/unitn.it/g/beecon-reading-group-rnoos72
 | :--- | :--- | :--- | :--- |
 | Oct 12 2023       | Nicola Campigotto     | Goette and Tripodi (2023), "[The limits of social recognition: Experimental evidence from blood donors](https://www.egontripodi.com/papers/recognition.pdf)", working paper | [Download](https://github.com/CEEL-UNITN/BEEcon/blob/main/presentations/BEEcon_20231012.pdf) |
 
-<br><br>
+# Possible readings for upcoming meetings
+
+These are merely suggestions. Do not hesitate to propose alternative readings that align with your interests!
+
+* Nielsen and Rehbeck (2022), "[When choices are mistakes](https://doi.org/10.1257/aer.20201550)", *American Economic Review*, vol. 112(7)
+* Schwardmann, Tripodi and van der Weele (2022), "[Self-persuasion: Evidence from field experiments at international debating competitions](https://doi.org/10.1257/aer.20200372)",  *American Economic Review*, vol. 112(4)
+* Ehret, Constantino, Weber, Efferson and Vogt (2022), "[Group identities can undermine social tipping after intervention](https://doi.org/10.1038/s41562-022-01440-5)", *Nature Human Behavior*, vol. 6
+  
+<br>
 <hr>
 <br>
 <p align="right"> <i>The content of this repo is licensed under a MIT license.</i>
