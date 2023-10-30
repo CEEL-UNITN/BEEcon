@@ -44,7 +44,7 @@ Click [HERE](https://groups.google.com/a/unitn.it/g/beecon-reading-group-rnoos72
 
 | 📆 **Meeting date** | 📢 **Presenter**      | 📝 **Topic** |
 | :--- | :--- | :--- |
-| Nov 9 2023, 4PM       | TBA | TBA |
+| Nov 9 2023, 4PM       | Lorena Quiroga Torrelio |  Haushofer and Fehr (2014), "[On the psychology of poverty](https://doi.org/10.1126/science.1232491)", *Science*, vol. 344(6186) |
 | Nov 23 2023, 4PM       | TBA | TBA |
 
 
@@ -52,7 +52,7 @@ Click [HERE](https://groups.google.com/a/unitn.it/g/beecon-reading-group-rnoos72
 
 | 📆 **Meeting date** | 📢 **Presenter**      | 📝 **Topic** | 💾 **Slides** |
 | :--- | :--- | :--- | :--- |
-| Oct 26 2023       | Austėja Kažemekaitytė | Mislavsky and Gaertig (2022), "[Combining probability forecasts: 60% and 60% is 60%, but likely and likely is very likely](https://doi.org/10.1287/mnsc.2020.3902)", *Management Science*, vol. 68(1) | |
+| Oct 26 2023       | Austėja Kažemekaitytė | Mislavsky and Gaertig (2022), "[Combining probability forecasts: 60% and 60% is 60%, but likely and likely is very likely](https://doi.org/10.1287/mnsc.2020.3902)", *Management Science*, vol. 68(1) | [Download](https://github.com/CEEL-UNITN/BEEcon/blob/main/presentations/BEEcon_20231026.pptx)  |
 | Oct 12 2023       | Nicola Campigotto     | Goette and Tripodi (2023), "[The limits of social recognition: Experimental evidence from blood donors](https://www.egontripodi.com/papers/recognition.pdf)", working paper | [Download](https://github.com/CEEL-UNITN/BEEcon/blob/main/presentations/BEEcon_20231012.pdf) |
 
 
