@@ -44,7 +44,7 @@ Click [HERE](https://groups.google.com/a/unitn.it/g/beecon-reading-group-rnoos72
 
 | 📆 **Meeting date** | 📢 **Presenter**      | 📝 **Topic** |
 | :--- | :--- | :--- |
-| Nov 23 2023, 4PM       | TBA | TBA |
+| Nov 30 2023, 4PM       | Nicola Campigotto | "[What drives demand for loot boxes? An experimental study](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4349674)", working paper |
 | Dec 7 2023, 4PM        | TBA | TBA |
 
 
