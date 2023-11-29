@@ -45,7 +45,6 @@ Click [HERE](https://groups.google.com/a/unitn.it/g/beecon-reading-group-rnoos72
 | 📆 **Meeting date** | 📢 **Presenter**      | 📝 **Topic** |
 | :--- | :--- | :--- |
 | Dec 7 2023, 4PM        | Ilia Lotarev | TBA |
-https://htmlpreview.github.io/?https://github.com/CEEL-UNITN/BEEcon/blob/main/presentations/BEEcon_20231130.html
 
 # Past meetings
 
