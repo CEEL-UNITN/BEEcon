@@ -44,7 +44,7 @@ Click [HERE](https://groups.google.com/a/unitn.it/g/beecon-reading-group-rnoos72
 
 | 📆 **Meeting date** | 📢 **Presenter**      | 📝 **Topic** |
 | :--- | :--- | :--- |
-| Dec 7 2023, 4PM        | Ilia Lotarev | TBA |
+| Dec 7 2023, 4PM        | Ilia Lotarev | Koch and Müller (2023), "[Tax amnesties and the insurance effect: An experimental study](https://doi.org/10.1016/j.socec.2023.102130)", *Journal of Behavioral and Experimental Economics*, vol. 108(102130) |
 
 # Past meetings
 
