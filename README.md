@@ -60,7 +60,6 @@ There are no upcoming meetings scheduled. Enjoy the Christmas break and see you 
 These are merely suggestions. Do not hesitate to propose alternative readings that align with your interests!
 
 * Andre, Haaland, Roth and Wohlfart (2023), "[Narratives about the macroeconomy](https://raw.githubusercontent.com/cproth/papers/master/Narratives_macro.pdf)", working paper
-* Baert, Herregods and Sterkens (2023), "[What does job applicants' body art signal to employers?](https://dx.doi.org/10.2139/ssrn.4509727)", working paper
 * Bursztyn, Rao, Roth and Yanagizawa-Drott (2023), "[Opinion as facts](https://doi.org/10.1093/restud/rdac065)", *Review of Economic Studies*, vol. 90(4)
 * Ehret, Constantino, Weber, Efferson and Vogt (2022), "[Group identities can undermine social tipping after intervention](https://doi.org/10.1038/s41562-022-01440-5)", *Nature Human Behavior*, vol. 6
 * Esposito, Rotesi, Saia and Thoenig (2023), "[Reconciliation narratives: *The Birth of a Nation* after the US civil war](https://doi.org/10.1257/aer.20210413)", *American Economic Review*, vol. 113(6)
