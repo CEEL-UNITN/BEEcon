@@ -42,14 +42,13 @@ Click [HERE](https://groups.google.com/a/unitn.it/g/beecon-reading-group-rnoos72
 
 # Upcoming meetings
 
-| 📆 **Meeting date** | 📢 **Presenter**      | 📝 **Topic** |
-| :--- | :--- | :--- |
-| Dec 7 2023, 4PM        | Ilia Lotarev | Koch and Müller (2024), "[Tax amnesties and the insurance effect: An experimental study](https://doi.org/10.1016/j.socec.2023.102130)", *Journal of Behavioral and Experimental Economics*, vol. 108(102130) |
+There are no upcoming meetings scheduled. Enjoy the Christmas break and see you in 2024! 🎅
 
 # Past meetings
 
 | 📆 **Meeting date** | 📢 **Presenter**      | 📝 **Topic** | 💾 **Slides** |
 | :--- | :--- | :--- | :--- |
+| Dec 7, 2023       | Ilia Lotarev | Koch and Müller (2024), "[Tax amnesties and the insurance effect: An experimental study](https://doi.org/10.1016/j.socec.2023.102130)", *Journal of Behavioral and Experimental Economics*, vol. 108(102130) | [Download](https://github.com/CEEL-UNITN/BEEcon/blob/main/presentations/BEEcon_20231207.pdf) |
 | Nov 30 2023       | Nicola Campigotto | Cordes, Dertwinkel-Kalt and Werner (2023), "[What drives demand for loot boxes? An experimental study](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4349674)", working paper |  [Download](https://htmlpreview.github.io/?https://github.com/CEEL-UNITN/BEEcon/blob/main/presentations/BEEcon_20231130.html) |
 | Nov 9 2023        | Lorena Quiroga Torrelio |  Haushofer and Fehr (2014), "[On the psychology of poverty](https://doi.org/10.1126/science.1232491)", *Science*, vol. 344(6186) | [Download](https://github.com/CEEL-UNITN/BEEcon/blob/main/presentations/BEEcon_20231109.pptx) |
 | Oct 26 2023       | Austėja Kažemekaitytė | Mislavsky and Gaertig (2022), "[Combining probability forecasts: 60% and 60% is 60%, but likely and likely is very likely](https://doi.org/10.1287/mnsc.2020.3902)", *Management Science*, vol. 68(1) | [Download](https://github.com/CEEL-UNITN/BEEcon/blob/main/presentations/BEEcon_20231026.pptx)  |
